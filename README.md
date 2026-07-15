@@ -183,20 +183,9 @@ Clean Architecture
 
 | وضعیت | موضوع |
 |:------:|--------|
-| ⬜ | مبانی C# |
-| ⬜ | برنامه‌نویسی شی‌گرا |
-| ⬜ | Generic Collections |
-| ⬜ | Delegates |
-| ⬜ | Events |
-| ⬜ | Lambda Expressions |
-| ⬜ | LINQ |
-| ⬜ | Design Patterns |
-| ⬜ | Dependency Injection |
-| ⬜ | Software Architecture |
-| ⬜ | JSON & File Management |
-| ⬜ | Logging |
-| ⬜ | Unit Testing |
-| ⬜ | Clean Architecture |
+- [x] ساخت پروژه و اتصال به گیت
+- [x] تعریف کلاس ها و پوشه بندی
+
 
 > با پیشرفت پروژه، وضعیت هر بخش به‌روزرسانی خواهد شد.
 
