@@ -1,0 +1,15 @@
+E:\سی شارپ\DungeonEngine\DungeonTest\bin\Debug\net10.0\DungeonTest.exe
+E:\سی شارپ\DungeonEngine\DungeonTest\bin\Debug\net10.0\DungeonTest.deps.json
+E:\سی شارپ\DungeonEngine\DungeonTest\bin\Debug\net10.0\DungeonTest.runtimeconfig.json
+E:\سی شارپ\DungeonEngine\DungeonTest\bin\Debug\net10.0\DungeonTest.dll
+E:\سی شارپ\DungeonEngine\DungeonTest\bin\Debug\net10.0\DungeonTest.pdb
+E:\سی شارپ\DungeonEngine\DungeonTest\obj\Debug\net10.0\DungeonTest.GeneratedMSBuildEditorConfig.editorconfig
+E:\سی شارپ\DungeonEngine\DungeonTest\obj\Debug\net10.0\DungeonTest.AssemblyInfoInputs.cache
+E:\سی شارپ\DungeonEngine\DungeonTest\obj\Debug\net10.0\DungeonTest.AssemblyInfo.cs
+E:\سی شارپ\DungeonEngine\DungeonTest\obj\Debug\net10.0\DungeonTest.csproj.CoreCompileInputs.cache
+E:\سی شارپ\DungeonEngine\DungeonTest\obj\Debug\net10.0\DungeonTest.sourcelink.json
+E:\سی شارپ\DungeonEngine\DungeonTest\obj\Debug\net10.0\DungeonTest.dll
+E:\سی شارپ\DungeonEngine\DungeonTest\obj\Debug\net10.0\refint\DungeonTest.dll
+E:\سی شارپ\DungeonEngine\DungeonTest\obj\Debug\net10.0\DungeonTest.pdb
+E:\سی شارپ\DungeonEngine\DungeonTest\obj\Debug\net10.0\DungeonTest.genruntimeconfig.cache
+E:\سی شارپ\DungeonEngine\DungeonTest\obj\Debug\net10.0\ref\DungeonTest.dll
