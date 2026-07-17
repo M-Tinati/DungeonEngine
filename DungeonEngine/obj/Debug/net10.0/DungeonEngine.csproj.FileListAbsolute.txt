@@ -1,0 +1,12 @@
+E:\سی شارپ\DungeonEngine\DungeonEngine\bin\Debug\net10.0\DungeonEngine.deps.json
+E:\سی شارپ\DungeonEngine\DungeonEngine\bin\Debug\net10.0\DungeonEngine.dll
+E:\سی شارپ\DungeonEngine\DungeonEngine\bin\Debug\net10.0\DungeonEngine.pdb
+E:\سی شارپ\DungeonEngine\DungeonEngine\obj\Debug\net10.0\DungeonEngine.GeneratedMSBuildEditorConfig.editorconfig
+E:\سی شارپ\DungeonEngine\DungeonEngine\obj\Debug\net10.0\DungeonEngine.AssemblyInfoInputs.cache
+E:\سی شارپ\DungeonEngine\DungeonEngine\obj\Debug\net10.0\DungeonEngine.AssemblyInfo.cs
+E:\سی شارپ\DungeonEngine\DungeonEngine\obj\Debug\net10.0\DungeonEngine.csproj.CoreCompileInputs.cache
+E:\سی شارپ\DungeonEngine\DungeonEngine\obj\Debug\net10.0\DungeonEngine.sourcelink.json
+E:\سی شارپ\DungeonEngine\DungeonEngine\obj\Debug\net10.0\DungeonEngine.dll
+E:\سی شارپ\DungeonEngine\DungeonEngine\obj\Debug\net10.0\refint\DungeonEngine.dll
+E:\سی شارپ\DungeonEngine\DungeonEngine\obj\Debug\net10.0\DungeonEngine.pdb
+E:\سی شارپ\DungeonEngine\DungeonEngine\obj\Debug\net10.0\ref\DungeonEngine.dll

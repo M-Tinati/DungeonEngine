@@ -4,7 +4,7 @@ using System.Text;
 
 namespace DungeonEngine.Characters
 {
-    public class Enemy: character
+    public class Enemy: Character
     {
         public int GoldReward { get; set; }
         public int ExperienceReward { get; set; }

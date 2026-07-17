@@ -7,14 +7,30 @@
   "targets": {
     ".NETCoreApp,Version=v10.0": {
       "DungeonTest/1.0.0": {
+        "dependencies": {
+          "DungeonEngine": "1.0.0"
+        },
         "runtime": {
           "DungeonTest.dll": {}
+        }
+      },
+      "DungeonEngine/1.0.0": {
+        "runtime": {
+          "DungeonEngine.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
         }
       }
     }
   },
   "libraries": {
     "DungeonTest/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "DungeonEngine/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

@@ -13,3 +13,7 @@ E:\سی شارپ\DungeonEngine\DungeonTest\obj\Debug\net10.0\refint\DungeonTest.
 E:\سی شارپ\DungeonEngine\DungeonTest\obj\Debug\net10.0\DungeonTest.pdb
 E:\سی شارپ\DungeonEngine\DungeonTest\obj\Debug\net10.0\DungeonTest.genruntimeconfig.cache
 E:\سی شارپ\DungeonEngine\DungeonTest\obj\Debug\net10.0\ref\DungeonTest.dll
+E:\سی شارپ\DungeonEngine\DungeonTest\bin\Debug\net10.0\DungeonEngine.dll
+E:\سی شارپ\DungeonEngine\DungeonTest\bin\Debug\net10.0\DungeonEngine.pdb
+E:\سی شارپ\DungeonEngine\DungeonTest\obj\Debug\net10.0\DungeonTest.csproj.AssemblyReference.cache
+E:\سی شارپ\DungeonEngine\DungeonTest\obj\Debug\net10.0\DungeonT.E4AF6CCF.Up2Date
