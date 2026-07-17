@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("DungeonEngine")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f62c701eb142366c6e73fd3ad72c936b2a01150c")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+87eefd8769eed40f5a7675c7a8ed48818ff8dbbb")]
 [assembly: System.Reflection.AssemblyProductAttribute("DungeonEngine")]
 [assembly: System.Reflection.AssemblyTitleAttribute("DungeonEngine")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
